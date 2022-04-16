@@ -1,6 +1,14 @@
-# Welcome to JNode!
+# Welcome to JNode-revisited!
 
-[![Build Status](https://travis-ci.org/jnode/jnode.svg?branch=master)](https://travis-ci.org/jnode/jnode)
+This repo was created in order to encourage renewed interest in the JNode opeerating system and integrate modern patches.  As most new development is centered around Rust and Go (and others), I don't expect too much activity, but here it is if you're interested.
+
+Note that I personally am not very familiar with the codebase, so it will take some time for me to get up to speed...
+
+But I am soliciting collaboration in all aspects.  So have fun.
+
+---
+
+[![Build Status](https://travis-ci.org/jnode-revisited/jnode.svg?branch=master)](https://travis-ci.org/jnode-revisited/jnode)
 
 In this file, you find the instructions needed to setup a JNode development environment.
 
@@ -37,6 +45,13 @@ JNode is usually developed in Eclipse. (It can be done without)
 The various sub-projects must be imported into eclipse. Since they reference each other, it is advisably to import them all at the same time
 using `Import -> Existing projects into workspace`.
 
+As the code has not been modified, it should still work in Eclipse...
+
+## IntelliJ, Netbeans and Gradle
+
+There had seemed to be some interest in compiling this with Gradle.  I am not against that.
+My preferred IDE is IDEA, and netbeans (13 now, or whatever version would be compatible) is second place.
+
 ## Building
 
 Execute:
@@ -58,8 +73,7 @@ The build will result in the following files:
 
 ## Questions
 
-If you have any questions, please post them to the forums at www.jnode.org
-or to the IRC channel #JNode.org@irc.oftc.net
+If you have any questions, please post them to the [Github Discussions](https://github.com/jnode-revisited/jnode/discussions) tab.
  
- -- The JNode Team --
+ -- The JNode-revisited Team --
  
