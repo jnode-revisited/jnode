@@ -13,7 +13,7 @@ But I am soliciting collaboration in all aspects.  So have fun.
 In this file, you find the instructions needed to setup a JNode development environment.
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/120995695/219909079-cb5eb46b-0503-410e-874f-1ae22c227d1e.png)
+![image](./444c87053b6916ba9db5baaafc009d0d.png)
 
 ## Sub-Projects
 
